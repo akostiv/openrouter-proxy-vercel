@@ -6,7 +6,7 @@
       "destination": "https://openrouter.ai/:path*"
     },
     {
-      "source": "/proxy/:path*",
+      "source": "/proxy-function/:path*",
       "destination": "/api/proxy/:path*"
     }
   ]
