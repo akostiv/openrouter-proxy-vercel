@@ -4,10 +4,6 @@
     {
       "source": "/proxy/:path*",
       "destination": "https://openrouter.ai/:path*"
-    },
-    {
-      "source": "/proxy-function/:path*",
-      "destination": "/api/proxy/:path*"
     }
   ]
 }
